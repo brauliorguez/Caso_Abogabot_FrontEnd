@@ -1,2 +1,2 @@
 # Caso_Abogabot_FrontEnd
-En este repositorio se plasman las paracticas de la semana de inducción a la mision de FrontEnd, en base a un caso se levantarón requerimientos Funcionales y no funcionales, el buyerperson, publico objetivo, creacion de un wireframe UX y por ultimo un UI con FIGMA
+En este repositorio se plasman la práctica de la semana de inducción a la misión de FrontEnd, basándonos en un caso se crearón requerimientos Funcionales y no funcionales, el buyerperson, publico objetivo, creación de un wireframe UX y por último un UI con FIGMA
