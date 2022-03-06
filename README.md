@@ -5,4 +5,5 @@ En este repositorio se plasman la práctica de la semana de inducción a la misi
 Carpetas
 
 * [Requerimientos](https://github.com/brauliorguez/Caso_Abogabot_FrontEnd/tree/main/requerimientos)
-*
+* [Buyer Persona](https://github.com/brauliorguez/Caso_Abogabot_FrontEnd/tree/main/buyer_persona)
+* [Publico Objetivo]()
