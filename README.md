@@ -6,4 +6,6 @@ Carpetas
 
 * [Requerimientos](https://github.com/brauliorguez/Caso_Abogabot_FrontEnd/tree/main/requerimientos)
 * [Buyer Persona](https://github.com/brauliorguez/Caso_Abogabot_FrontEnd/tree/main/buyer_persona)
-* [Publico Objetivo]()
+* [Publico Objetivo](https://github.com/brauliorguez/Caso_Abogabot_FrontEnd/tree/main/buyer_persona)
+* [UX](https://github.com/brauliorguez/Caso_Abogabot_FrontEnd/tree/main/UX)
+* [UI](https://github.com/brauliorguez/Caso_Abogabot_FrontEnd/tree/main/UI)
